@@ -1,0 +1,82 @@
+nav {
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar-hover a {
+    color: dimgrey;
+}
+
+.navbar-hover a:hover {
+    color: #05427B;
+    font-weight: 600;
+}
+
+.container {
+    padding: 15px;
+}
+
+.btn-color {
+    background-color: #05427B;
+    color: white;
+    white-space: normal;
+}
+
+.row-service hr {
+    margin: auto;
+    width: 5%;
+    border: 1px solid #05427B;
+}
+
+.container .row-wordpress .col-worpress1 h3 {
+    display: inline;
+    padding: 20px;
+}
+
+.row-wordpress .col-worpress1 {
+    margin: 0px;
+}
+
+.down {
+    margin: 0px 100px;
+}
+
+.container .card .card-body .date {
+    float: right;
+}
+
+.container .card {
+    display: flex;
+}
+
+footer {
+    background-color: #00749A;
+    overflow-x: hidden;
+}
+
+.row .col-sm-4 .card {
+    background-color: #F5F5F5;
+}
+
+.container3 {
+    padding: 10px 10px;
+}
+
+.container .container3 {
+    padding: 100px 100px;
+}
+
+.card-radius {
+    border-radius: 20px;
+}
+
+.btn-costome {
+    color: #00749A;
+    background-color: white;
+}
+
+.form-control::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1;
+    /* Firefox */
+}
